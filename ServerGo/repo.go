@@ -16,9 +16,9 @@ import (
 //=============================================
 
 const (
-	local      = "localhost:27017"
+	local      = "<>"
 	collection = "user"
-	db         = "users"
+	db         = "go_mongodb"
 )
 
 //CreateNewRegister save new register in DataBase
